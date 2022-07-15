@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hola, Mi nombre es Geovanni y soy un Desarollador web 👋
 
-<!--
+![](Geovanni.png)
+
+
 **wizardsq/wizardsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
