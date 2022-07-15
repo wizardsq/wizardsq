@@ -3,6 +3,3 @@
 ![](Geovanni.png)
 
 ## Te contare un poco sobre mi
-
-![](carbon.png)
-
